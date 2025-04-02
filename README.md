@@ -33,15 +33,14 @@ SISTEMA DA INFORMAÇÃO(2/4) - UNIFAFIBE-BEBEDOURO-SP ✍️
  ![Game Jolt](https://img.shields.io/badge/Game%20Jolt-CCFF00?style=for-the-badge&logo=Game%20Jolt&logoColor=white)
  ![Origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
  ![ITCH](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
- ![FIFA](	https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)]
+ ![FIFA](	https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
  ![CS](	https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
  ![BATTLE](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
  ![ACTIVISION](https://img.shields.io/badge/Activision-000000?style=for-the-badge&logo=Activision&logoColor=white)
 
-                          
-![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-### yleostar
-                
+#### yleostar
+![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
+                 
 ## STREAMING
 
 [![YT](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LeoMingatos)
@@ -50,10 +49,11 @@ SISTEMA DA INFORMAÇÃO(2/4) - UNIFAFIBE-BEBEDOURO-SP ✍️
 
  ## CONTATOS
  
-![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-### Leonardomingatos46@gmail.com
-### Mingatos.leonardo@gmail.com
-### Mingatos.leonardo@outlook.com
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)                       
+
+###### Leonardomingatos46@gmail.com
+###### Mingatos.leonardo@gmail.com
+###### Mingatos.leonardo@outlook.com
 
 
 
