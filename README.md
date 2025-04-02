@@ -1,9 +1,9 @@
 
-### Olá! Sou o Leonardo Mingatos 👨‍💻
+## 👨‍💻 Opá! Sou o Leonardo Mingatos 👨‍💻
 
-TECNICO EM INFORMATICA - ETEC BEBEDOURO-SP 🎓
+🎓 TECNICO EM INFORMATICA - ETEC BEBEDOURO-SP 🎓
 
-SISTEMA DA INFORMAÇÃO(2/4) - UNIFAFIBE-BEBEDOURO-SP ✍️
+✍️ SISTEMA DA INFORMAÇÃO(2/4) - UNIFAFIBE-BEBEDOURO-SP ✍️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mingatos.leo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-mingatos-237658231/)
